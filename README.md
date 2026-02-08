@@ -22,14 +22,14 @@ Here are the projects I've built, spanning Cybersecurity, Cloud, and Programming
     - **Usage**: `python Port_Scanner.py <IP> [--start <start_port>] [--end <end_port>]`
     - *Note: Start and End are optional (Default range: 1-1024)*
 
-- *(More projects coming soon!)*
+- *(More projects coming soon!!)*
 
 ---
 
 ## 🌐 Connect with Me
 I am constantly working on new ideas and projects. Follow my journey!
 
-- <a href="https://www.linkedin.com/in/amaali-ahmed-rida-556b58313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/amaali-ahmed-rida-556b58313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/></a>
 
 ---
 
