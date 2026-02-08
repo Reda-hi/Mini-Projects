@@ -29,7 +29,7 @@ Here are the projects I've built, spanning Cybersecurity, Cloud, and Programming
 ## 🌐 Connect with Me
 I am constantly working on new ideas and projects. Follow my journey!
 
-- 👔 **LinkedIn**: [www.linkedin.com/in/amaali-ahmed-rida-556b58313]
+- 👔 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/amaali-ahmed-rida-556b58313)
 
 ---
 
