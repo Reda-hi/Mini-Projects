@@ -22,6 +22,11 @@ Here are the projects I've built, spanning Cybersecurity, Cloud, and Programming
     - **Usage**: `python Port_Scanner.py <IP> [--start <start_port>] [--end <end_port>]`
     - *Note: Start and End are optional (Default range: 1-1024)*
 
+- 💧 **LeekSeeker (Breach Data Search)**
+    - A specialized tool to search for compromised credentials in large breach files without crashing memory.
+    - **Features**: Multi-domain search (`@gmail.com|@yahoo.com`), automatic result sorting by domain, and optional output file logging.
+    - **Usage**: `python LeekSeeker.py "<domains>" <file> [-o <output_file>]`
+
 - *(More projects coming soon!!)*
 
 ---
