@@ -10,7 +10,6 @@ parser.add_argument("--start", type=int, default=1, help="Start port (default: 1
 parser.add_argument("--end", type=int, default=1024, help="End port (default: 1024)")
 args = parser.parse_args()
 
-
 # Defining the target
 
 target = socket.gethostbyname(args.target) # Translating Hostname to IPV4

@@ -2,21 +2,14 @@ import argparse
 import os
 
 # Setup Argument Parser
-# 1. Setup the parser with a new description
 parser = argparse.ArgumentParser(description="LeakSeeker - Search for breaches by domain")
-
-# 2. The Domain (Required) - e.g., "@gmail.com"
 parser.add_argument("domain", help="The domain to search for (e.g., @gmail.com)")
-
-# 3. The Input File (Required) - e.g., "breach_data.txt"
 parser.add_argument("file", help="Path to the file containing breached data")
-
-# 4. The Output File (Optional)
 parser.add_argument("-o", "--output", help="Optional: File to save the results to")
 
 args = parser.parse_args()
 
-# Open the output file ONLY if the user provided one
+# Open the output file if provided
 output_file = None
 if args.output:
     if not os.path.exists(args.output):

@@ -27,7 +27,7 @@ Here are the projects I've built, spanning Cybersecurity, Cloud, and Programming
     - **Features**: Multi-domain search (`@gmail.com|@yahoo.com`), automatic result sorting by domain, and optional output file logging.
     - **Usage**: `python LeekSeeker.py "<domains>" <file> [-o <output_file>]`
 
-- *(More projects coming soon!!)*
+- *(More projects coming soon!)*
 
 ---
 
